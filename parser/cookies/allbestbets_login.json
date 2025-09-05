@@ -1,0 +1,132 @@
+[
+    {
+        "name": "_GRECAPTCHA",
+        "value": "09ANMylNC4rtyaUzy8UvIWHPXh7glWk4-aUzK4R9olNa0wFRiwMq1uDTsknoMDabDuZWoE1rdaZ4AJ2jxNQtr0oHc",
+        "domain": "www.recaptcha.net",
+        "path": "/recaptcha",
+        "expires": 1772273606.8832,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "visitor_type",
+        "value": "paid_account",
+        "domain": "www.allbestbets.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "refresh_url",
+        "value": "https%3A%2F%2Fapi-pr.allbestbets.com",
+        "domain": "www.allbestbets.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "refresh_url_live",
+        "value": "https%3A%2F%2Fapi-lv.allbestbets.com",
+        "domain": "www.allbestbets.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "preferred_language",
+        "value": "ru",
+        "domain": "www.allbestbets.com",
+        "path": "/",
+        "expires": 1779261754.127475,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "cookieyes-consent",
+        "value": "consentid:bjl5ZjhGYno1ZDQ4cVZBTm1abURIMk9xSE9iUlhNS0g,consent:yes,action:no,necessary:yes,functional:yes,analytics:yes",
+        "domain": "www.allbestbets.com",
+        "path": "/",
+        "expires": 1779607991,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Strict"
+    },
+    {
+        "name": "_ga",
+        "value": "GA1.1.1050207314.1747773067",
+        "domain": ".allbestbets.com",
+        "path": "/",
+        "expires": 1791281609.101494,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_ga_L8J77T12EB",
+        "value": "deleted",
+        "domain": ".www.allbestbets.com",
+        "path": "/",
+        "expires": 1791015853.681207,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "remember_allbestbets_user_token",
+        "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6Ilcxc3lOekE1T1RaZExDSWtNbUVrTVRJa1dXcG9ZbVJ6VVhONVkwdGlWbUZxYkVKTGRtVXhaU0lzSWpFM05UWTNNakUyTURndU5qY3dNVEEwTlNKZCIsImV4cCI6IjIwMjUtMDktMTVUMTA6MTM6MjguNjcwWiIsInB1ciI6ImNvb2tpZS5yZW1lbWJlcl9hbGxiZXN0YmV0c191c2VyX3Rva2VuIn19--0f5e8e8072ea323d33f82976f131f34d22d310d2",
+        "domain": "www.allbestbets.com",
+        "path": "/",
+        "expires": 1757931208.826905,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "jwt_token",
+        "value": "eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI5MDI5Y2FlOS1lYzA1LTQ5MzMtYWEzOS1jOGM0MTg2NGYyZDEiLCJzdWIiOjI3MDk5Niwic2NwIjoiYWxsYmVzdGJldHNfdXNlciJ9.8tbk0oVv7inRjyzJstRCV7n58aK298vOFX0beDUtEfM",
+        "domain": "www.allbestbets.com",
+        "path": "/",
+        "expires": 1757326408.827024,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "abb_web_session",
+        "value": "b07c9790990fffb7f98b06e59c0eacdc",
+        "domain": "www.allbestbets.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "refresh_token",
+        "value": "569117fd99791cbd9f19ba52abef03fe",
+        "domain": "www.allbestbets.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_ga_L8J77T12EB",
+        "value": "GS2.1.s1756721603$o2$g1$t1756721609$j56$l0$h0",
+        "domain": ".allbestbets.com",
+        "path": "/",
+        "expires": 1791281609.117681,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    }
+]

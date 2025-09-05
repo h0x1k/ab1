@@ -1,0 +1,202 @@
+[
+    {
+        "name": "AWSALB",
+        "value": "O1tO0y5ORUMN1xeexzvf2nS7NIQGZZh+jRK+5Ou0aj12Qo33relhn8njoiy9/j7urSRO1DD4ua5HdmnmFdffxHoqwRVhXM0mcOJDlUdvtxEMgjYjCaJZgFvnVCeb",
+        "domain": "proxysite.com",
+        "path": "/",
+        "expires": 1748330657.671794,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "AWSALBCORS",
+        "value": "O1tO0y5ORUMN1xeexzvf2nS7NIQGZZh+jRK+5Ou0aj12Qo33relhn8njoiy9/j7urSRO1DD4ua5HdmnmFdffxHoqwRVhXM0mcOJDlUdvtxEMgjYjCaJZgFvnVCeb",
+        "domain": "proxysite.com",
+        "path": "/",
+        "expires": 1748330657.671866,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "PHPSESSID",
+        "value": "2nkufmiekketvrg1j6el0ijij6",
+        "domain": "www.proxysite.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "SERVERID",
+        "value": "server2",
+        "domain": "www.proxysite.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_ga",
+        "value": "GA1.2.314473443.1747725859",
+        "domain": ".proxysite.com",
+        "path": "/",
+        "expires": 1782285874.34306,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_gid",
+        "value": "GA1.2.1750739000.1747725859",
+        "domain": ".proxysite.com",
+        "path": "/",
+        "expires": 1747812274,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_gat",
+        "value": "1",
+        "domain": ".proxysite.com",
+        "path": "/",
+        "expires": 1747725919,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "IDE",
+        "value": "AHWqTUlY4nGNkCjEAIzw_YxkJu34ySAh7D9zFYVmJMNXcRfIsT-oh9vkFqMseduPqdQ",
+        "domain": ".doubleclick.net",
+        "path": "/",
+        "expires": 1782285860.215186,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "__gads",
+        "value": "ID=6d351b06bbde770d:T=1747725859:RT=1747725859:S=ALNI_MbN2ry5SYrjH4MRTahKvK-crrm_SA",
+        "domain": ".proxysite.com",
+        "path": "/",
+        "expires": 1781421859,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "__gpi",
+        "value": "UID=000010c8ee4176cd:T=1747725859:RT=1747725859:S=ALNI_MaW-BE7xS9hLO18WDrXGE5-Tql5Xg",
+        "domain": ".proxysite.com",
+        "path": "/",
+        "expires": 1781421859,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "__eoi",
+        "value": "ID=fc27be3200556e2a:T=1747725859:RT=1747725859:S=AA-Afja8dyzZ3geSXYCxIQpXZ-DT",
+        "domain": ".proxysite.com",
+        "path": "/",
+        "expires": 1763277859,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "DSID",
+        "value": "NO_DATA",
+        "domain": ".doubleclick.net",
+        "path": "/",
+        "expires": 1747729460.809097,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "ar_debug",
+        "value": "1",
+        "domain": ".googleadservices.com",
+        "path": "/",
+        "expires": 1755501860.503528,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "FCNEC",
+        "value": "%5B%5B%22AKsRol8y_QncODWuXk1IJsXUk6XG_4Me4NzwXevRBOpaYBROYheQ40WZ_qCgqe2ZVVUfwx0zOWbO4gTcxhdjWgfjBlkksa6MLRpeRp2WuTxKLr4rNWI6u3Fk3MgT8H5SXvsnNQIcv71NySH3mUZ2dYcibSXbH6T2Jg%3D%3D%22%5D%5D",
+        "domain": ".proxysite.com",
+        "path": "/",
+        "expires": 1779261861,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "PHPSESSID",
+        "value": "ot51eammg4m874c87k4iop471f",
+        "domain": "us10.proxysite.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "c[line4bet.ru][/wp-content/plugins][wordpress_sec_0f903f2bf69f479d8a3e555a522a2dc9]",
+        "value": "4betsacc%257C1748935469%257Clxv0nCMIiIxxoHlUxCvFECNkKPg3lkvsh5TD7ja5IUR%257Cd3f1ba900604dcdb41045773c7eced0f3cf3b8dc7c1542b98f75ee11442c12ef",
+        "domain": ".proxysite.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "c[line4bet.ru][/wp-admin][wordpress_sec_0f903f2bf69f479d8a3e555a522a2dc9]",
+        "value": "4betsacc%257C1748935469%257Clxv0nCMIiIxxoHlUxCvFECNkKPg3lkvsh5TD7ja5IUR%257Cd3f1ba900604dcdb41045773c7eced0f3cf3b8dc7c1542b98f75ee11442c12ef",
+        "domain": ".proxysite.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "c[line4bet.ru][/][wordpress_logged_in_0f903f2bf69f479d8a3e555a522a2dc9]",
+        "value": "4betsacc%257C1748935469%257Clxv0nCMIiIxxoHlUxCvFECNkKPg3lkvsh5TD7ja5IUR%257C5e6625524c68fffab4d4b0bf926ef151a49cd5c8c829451004ed0e34e709e20c",
+        "domain": ".proxysite.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "c[line4bet.ru][/][wfwaf-authcookie-aa242edbbd9f203c9228e253a7dd808d]",
+        "value": "4931%257Csubscriber%257Cread%257C6f0979d88ecae712dd236b8f17ec23e579df743b2093f2ea3e6632e6d827e26c",
+        "domain": ".proxysite.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_ga_ZPZ1ZJ9RFM",
+        "value": "GS2.2.s1747725859$o1$g1$t1747725874$j0$l0$h0",
+        "domain": ".proxysite.com",
+        "path": "/",
+        "expires": 1782285874.424542,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    }
+]
